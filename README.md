@@ -1,5 +1,5 @@
-# Simon-Game
+# Drum-kit
 
-Just a learning part, if love to play games...
-Click here.... https://shagunmishra.github.io/Simon-Game/
-Test your memory, till what level you are able to memorize the pattern...
+If you love to play drum....
+bang on... Click here..
+https://shagunmishra.github.io/Drum-kit/
